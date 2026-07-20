@@ -1,19 +1,130 @@
-# 💫 About Me:
-🔭 MERN Stack Developer | Passionate about Backend & Problem Solving<br><br>👯 Open to collaborate on Full Stack & Open Source Projects<br><br>🌱 Currently improving DSA & Backend Scalability<br><br>💬 Ask me about MERN Stack, REST APIs, MongoDB, Node.js & C++<br><br>⚡ Building projects + grinding LeetCode consistently 🚀
+# Raj Kushwaha
 
+Backend engineer who builds systems meant to run in production, not just demo well. Currently deepening into distributed systems, cloud infrastructure, and applied AI engineering.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_kushwaha0833) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-kushwaha-a703a1390) 
+[Featured projects ↓](#featured-engineering-projects)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajkushwaha-01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajkushwaha-01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha-01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Engineering Snapshot
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **Role** — Backend Engineer, Full Stack Engineer, GenAI Developer
+- **Focus** — Backend systems, distributed architecture, AI-powered applications
+- **Background** — Computer Science Engineering student
+
+## Currently Engineering
+
+- Designing REST APIs with clear authentication and authorization boundaries
+- Studying distributed systems patterns — caching, service boundaries, message-driven communication
+- Building AI-powered applications with LangChain, RAG pipelines, and vector databases
+- Learning containerized deployment workflows — Docker, AWS, GitHub Actions CI/CD
+
+## Engineering Principles
+
+- An API's contract gets designed before its implementation exists.
+- Code is read far more than it's written — clarity is a feature, not an afterthought.
+- Performance work starts with a measurement, not a guess.
+- A task done manually more than twice becomes a script.
+- Complexity earns its place only after the problem has justified it.
+- A system that degrades predictably beats one that's merely fast.
+- Documentation ships with the code, not after it.
+
+## Featured Engineering Projects
+
+### BlitzCore AI — Real-Time AI Chat Application
+
+**Problem** — A raw chat interface needed to hold up under real usage: consistent message state, live typing feedback, and properly rendered AI output.
+
+**Stack** — React, Redux Toolkit, Socket.IO, react-markdown + remark-gfm
+
+**Architecture** — Feature-sliced Redux structure with a custom `useChat` hook wrapping the Socket.IO layer, behind a dashboard UI built around a consistent dark, glass-panel visual system.
+
+**Engineering decisions** — Chat state isolated into its own Redux slice rather than colocated with UI state, keeping the socket layer swappable from the components that consume it.
+
+**Interesting challenge** — A typing indicator that never cleared, traced to a missing `setLoading(false)` inside a `finally` block — async cleanup needs a guaranteed exit path, not just a happy-path handler. A second bug, a mismatch between `"ai"` and `"assistant"` role keys breaking message rendering, was found the same way: reasoning through state transitions rather than guessing.
+
+**Repository** — link to be added
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajkushwaha-01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### E-Cell RGPV — Entrepreneurship Cell Website *(contributor)*
+
+**Problem** — The events and gallery pages needed to feel like a living site, not a static brochure.
+
+**Stack** — Next.js, React, Tailwind CSS
+
+**Architecture** — An `EventsTimeline` component connecting event cards through SVG bezier paths in a zigzag layout; a canvas-based 3D tag cloud (`TagCloud3D`) using Fibonacci sphere distribution for even point spacing, with drag-to-rotate and scroll-to-zoom; a gallery with category filters and a bento grid, backed by a lightbox that supports keyboard navigation and respects reduced-motion settings.
+
+**Interesting challenge** — Distributing tags evenly across a sphere without clustering at the poles, solved with Fibonacci sphere sampling, then layering in interaction (drag, zoom, hover) without breaking accessibility for users who need reduced motion.
+
+**Repository** — link to be added
+
+---
+
+### AI Multi-Agent Orchestration System *(in progress)*
+
+**Problem** — Exploring whether a single natural-language prompt can be decomposed and routed to specialized AI agents instead of handled by one generic assistant.
+
+**Stack** — Node.js, Express, MongoDB (Mongoose)
+
+**Architecture** — Planner, Frontend Dev, Backend Dev, and Reviewer agent roles; JWT + bcrypt authentication; `Team` and `TeamMember` schemas with embedded member arrays and role management.
+
+**Status** — Authentication and data modeling are in place; agent orchestration logic is still being built out.
+
+---
+
+### Also Building
+
+- **AI Resume Analyzer** — an AI-powered application for evaluating resumes.
+- **Real-Time Bus Tracking System** — a real-time location tracking application.
+
+*(Case studies for these will expand once repositories are linked.)*
+
+## Engineering Toolkit
+
+**Languages** — C++, JavaScript, TypeScript, Python
+
+**Backend** — Node.js, Express.js, REST APIs, JWT, Socket.IO, Microservices
+
+**Frontend** — React, Next.js, Tailwind CSS
+
+**Databases** — MongoDB, PostgreSQL, Redis
+
+**Cloud & DevOps** — Docker, AWS, GitHub Actions, CI/CD, Linux
+
+**AI** — LangChain, LangGraph, Google Gemini API, OpenAI API, RAG, Vector Databases
+
+## System Thinking
+
+```
+Client (React)
+      │
+      ▼
+REST / Socket Gateway
+      │
+      ▼
+Auth Middleware (JWT)
+      │
+      ▼
+Business Logic
+      │
+      ├──► Redis Cache
+      │
+      ▼
+Database (MongoDB / PostgreSQL)
+```
+
+## GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajkushwaha-01&show_icons=true&hide_border=true&theme=default" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkushwaha-01&layout=compact&hide_border=true&theme=default" width="49%" />
+
+## Competitive Programming
+
+750+ problems solved across DSA practice, 250+ of them on LeetCode — worked consistently rather than in bursts.
+
+## Open Source
+
+Interested in contributing to open-source projects, particularly backend tooling and AI infrastructure. Not yet a maintainer or regular contributor — a deliberate next step, not a current claim.
+
+## Connect
+
+[GitHub](https://github.com/rajkushwaha-01) · [LinkedIn](https://www.linkedin.com/in/raj-kushwaha-a703a1390)
